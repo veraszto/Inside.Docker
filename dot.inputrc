@@ -1,0 +1,11 @@
+
+
+"\eF":"find . -iregex \".*.*\"\e[D\e[D\e[D"
+"\eG":"grep -ri \"\"\e[D"
+
+#"\e=\eq":"~/git/MyStuff/"
+#"\e=\ew":"~/git/GracefulGNU/"
+#"\e=\ez":"-iregex \".*.*\""
+
+#"\e=\el":"/home/veraszto/git/MyStuff/BashScripts/look_for_in_history.sh\n"
+
